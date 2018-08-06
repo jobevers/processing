@@ -15,8 +15,8 @@ import org.javatuples.Pair;
 int hue = 128;
 
 void setup() {
-  // 198, 128 is the smallest size we can use. Check layout/parse_layout.py for the calculation
-  size(198, 128);
+  // 198, 109 is the smallest size we can use. Check layout/parse_layout.py for the calculation
+  size(198, 109);
   colorMode(HSB);
   background(255);
   try {
